@@ -20,7 +20,7 @@ app.set('view engine', 'ejs')
 const storage = new Storage({
   keyFilename: "key.json",
 });
-const bucketName = process.env.BUCKET_NAME;
+const bucketName = "practice-project-upload-files";
 const bucket = storage.bucket(bucketName);
 
 // Configure MongoDB
