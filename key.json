@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "silken-tenure-426710-i5",
+  "private_key_id": "1841123ebbdd539536d4e428bda8e0f20e088b96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZiHjgQL2Eh5fn\nevrP+OynQd91Z208j3L4tU3SonY9wjnv8vIWCQh+6xu3vYWxg5tKMG6RBe1aTFPP\nHZKXa8qEzLa4aXpD9e8mVDrwZMZ8EH3tBsBD+Ezj9ovGNZ3AFL/Cjaze5F8ILgmi\nmnp8gYdByEGDVenSebygbIp01AW2IffncMEJohJYbvNy8/GqtPjLKz0jPi1wkadJ\ntU43ZJLRFMewmfW5yY9cZJizwur/b4mgEDW6D1KAH/wovIuu7Zi6M9S6vl9rzscC\niQeumb8glksy8m1E3kxcGr9E4OpxxYqahIa5pdts8Fv///75bDCsCaIuN7H7xNYB\nhKJDcI1jAgMBAAECggEADeXNKy6XrQ7ooo5V1dGmdO0ddKe979+OTdtvdGSSv1FY\nWD8iPkwnccxdgfimwPeShUPg3H0Pc/RqalIOWoQ1dRSLG+8JM6xTshQxi8g0chqv\noOQMhosnhmzq8yfbwzjQI4Lfp4HZnHEshmnuJ2QzGv3LSbPEc4D5jxpAIkSldMRK\nlMRQ+MIMOP76frYUMM0TY2IcigtHpH0gqYc1YIl3EsR4M3BIMHaMXVZ4nOL+lAxe\nkH99/7Uv+3+WnkBDMf85O138kPy0mQttl0XmgkImDtfLE65miirAGmugNNfPxiIm\n+Rg0niweUdnphZWgImKlo8ROoZ8rpMlii6yIagCGeQKBgQD8TlTLvNZ7x0X3w1AX\nAA5S9hUuhuy5zcWOlnpiLr83PGY+PNUjeJ/9E2kJR8NaF9uHy1yaB8GFhz6+4vas\nJYTVx62t6R84kxD2BOcKoy/40Q+ETNB70yFLLcql5nKqoH/F9qCPtTCp0xY8XJEu\nEAOY12AiIxpg8FTf/SQhR1rT7QKBgQDct87/M0xK3vsodfLLRClLviCjqhYKjDBc\nCcDjnJ5KBNfuhmMzbJbH6cuRLFAPpgmbLqMxHUpVpJd+04GsSMHFDRt2q+F0Y7b9\npHVOqLC9oQmQVORcKbIa2ZZQADXWx4425hiQdbVNHde3XI+LRVFblLYSLR8SzhxM\nh2YP9ldcjwKBgBXvsYutNXC5mKm7/4Cgbp5j6t+Kt5ZH/78v8iALNHDW/YS3wUg+\nOprET0ORS7jPjjS2R6zUs8yqP5hVH2FEOdJkdANE24QNtVHOh0/zdD5L3u9/xjid\n2K0ypAXcjWesYK+Ti84y0LJTOgGxgqXgmo91WlRdfPOksZxv4+5Ix+rZAoGAXXe1\nP9sQXtBomazBIZT+y+V62vQHG3ZccE1tErZbTcsZShg84CUHASefnh2e1dGhVcb9\nMqpNtVDbGskkq7mv3Ot9CtckxW4Iqwa+6o2DMvqEG0vn3KOHmdk0zzIXmpmtPtBX\n7Kz8FukhVbPr0bWMC3VBWRckhokj8MCR1wah3j8CgYBztP/EOyFc3cD30lsOBwxO\n+1gaSkpw1t/auhvGWo83q0nzQoXdoOm3JG/K9ZFS7MV15hy01zww6OeC85QXl5fQ\n4iaD6cCI1ktWM/CMAA3h+iu1WOYrE9sCA7gDExMMUkNHCFAOrOJK0r8OEJCAJLpK\n14qPYAcdMJaeSDbST8KoOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-project-bucket@silken-tenure-426710-i5.iam.gserviceaccount.com",
+  "client_id": "105198777324061139864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-project-bucket%40silken-tenure-426710-i5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
