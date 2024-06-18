@@ -1,7 +1,7 @@
 const express = require('express');
 const { Storage } = require('@google-cloud/storage');
-const multer = require('multer');
-const { MongoClient, MongoExpiredSessionError } = require('mongodb');
+// const multer = require('multer');
+// const { MongoClient, MongoExpiredSessionError } = require('mongodb');
 const path = require('path');
 const uuid = require('uuid');
 const dotenv = require('dotenv');
@@ -23,11 +23,11 @@ const storage = new Storage({
 const bucketName = "practice-project-upload-files";
 const bucket = storage.bucket(bucketName);
 
-// Configure MongoDB
-const mongoUri = process.env.MONGO_URI;
-const client = new MongoClient("mongodb://localhost:27017");
-const dbName = 'file_database';
-let db;
+// // Configure MongoDB
+// const mongoUri = process.env.MONGO_URI;
+// const client = new MongoClient("mongodb://localhost:27017");
+// const dbName = 'file_database';
+// let db;
 
 
 
