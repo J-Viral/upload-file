@@ -31,14 +31,14 @@ const bucket = storage.bucket(bucketName);
 
 
 
-client.connect(err => {
-  if (err) {
-    console.error('Failed to connect to MongoDB', err);
-    process.exit(1);
-  }
-  db = client.db(dbName);
-  console.log('Connected to MongoDB');
-});
+// client.connect(err => {
+//   if (err) {
+//     console.error('Failed to connect to MongoDB', err);
+//     process.exit(1);
+//   }
+//   db = client.db(dbName);
+//   console.log('Connected to MongoDB');
+// });
 
 // Configure Multer
 const upload = multer({
