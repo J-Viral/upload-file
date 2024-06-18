@@ -1,6 +1,6 @@
 const express = require('express');
 const { Storage } = require('@google-cloud/storage');
-// const multer = require('multer');
+const multer = require('multer');
 // const { MongoClient, MongoExpiredSessionError } = require('mongodb');
 const path = require('path');
 const uuid = require('uuid');
